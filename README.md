@@ -4,21 +4,19 @@
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
-## Contents
+**Table of Contents**
 
-- [Awesome PetTech ](#awesome-pettech-)
-  - [Contents](#contents)
-  - [Marketplace](#marketplace)
-  - [Veterinary](#veterinary)
-    - [PiMS](#pims)
-    - [Coding](#coding)
-  - [Grooming](#grooming)
-  - [Kennel](#kennel)
-  - [Shelter](#shelter)
-  - [Adoption](#adoption)
-  - [Trainer](#trainer)
-  - [Tracking](#tracking)
-  - [API](#api)
+- [Marketplace](#marketplace)
+- [Veterinary](#veterinary)
+  - [PiMS](#pims)
+  - [Coding](#coding)
+- [Grooming](#grooming)
+- [Kennel](#kennel)
+- [Shelter](#shelter)
+- [Adoption](#adoption)
+- [Trainer](#trainer)
+- [Tracking](#tracking)
+- [API](#api)
 
 ## Marketplace
 
