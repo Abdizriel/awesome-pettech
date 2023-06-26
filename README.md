@@ -4,19 +4,24 @@
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
-**Table of Contents**
+## Contents
 
-- [Marketplace](#marketplace)
-- [Veterinary](#veterinary)
-  - [PiMS](#pims)
-  - [Coding](#coding)
-- [Grooming](#grooming)
-- [Kennel](#kennel)
-- [Shelter](#shelter)
-- [Adoption](#adoption)
-- [Trainer](#trainer)
-- [Tracking](#tracking)
-- [API](#api)
+- [Awesome PetTech ](#awesome-pettech-)
+  - [Contents](#contents)
+  - [Marketplace](#marketplace)
+  - [Veterinary](#veterinary)
+    - [PiMS](#pims)
+    - [Coding](#coding)
+  - [Grooming](#grooming)
+  - [Kennel](#kennel)
+  - [Daycare](#daycare)
+  - [Boarding](#boarding)
+  - [Shelter](#shelter)
+  - [Adoption](#adoption)
+  - [Trainer](#trainer)
+  - [Petsitter](#petsitter)
+  - [Tracking](#tracking)
+  - [API](#api)
 
 ## Marketplace
 
@@ -26,7 +31,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [PetSitter.com](https://www.petsitter.com/) - Connects pet owners with pet sitters and offers services like pet boarding, house sitting, and dog walking.
 - [DogVacay](https://www.dogvacay.com/) - Offers pet boarding and dog sitting services with trusted and vetted pet sitters.
 - [PetBacker](https://www.petbacker.com/) - Provides a platform to find pet sitters, dog walkers, and other pet-related services.
-- [TrustedHousesitters](https://www.trustedhousesitters.com/) - Connects pet owners with house sitters who also offer pet sitting services.
+- [TrustedHousesitters](https://www.trustedhousesitters.com/) - Connects pBoardinget owners with house sitters who also offer pet sitting services.
 - [PetCloud](https://www.petcloud.com.au/) - An Australian-based marketplace for pet sitting, dog walking, and pet boarding services.
 - [Pawshake](https://www.pawshake.com/) - Offers pet sitting, dog walking, and other pet services provided by verified and trusted pet sitters.
 - [HouseMyDog](https://www.housemydog.com/) - Connects dog owners with vetted dog sitters and offers pet boarding and dog walking services.
@@ -74,13 +79,71 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Grooming
 
+- [Pawfinity](http://www.pawfinity.com/)
+- [123Pet Software](http://www.123petsoftware.com/)
+- [Groomsoft](http://www.groomsoft.com/)
+- [Gingr](http://www.petlinx.com/)
+- [PetLinx](http://www.petlinx.com/)
+- [PetExec](http://www.petexec.net/)
+- [PawsAdmin](http://www.pawsadmin.com/)
+- [GroomPro POS](http://www.groompropos.com/)
+- [Pet Grooming Studio](http://www.petgroomingstudio.com/)
+- [Pawloyalty](https://pawloyalty.com/)
+- [KennelBooker](https://www.kennelbooker.com/)
+- [PawsAdmin](https://www.pawsadmin.com/)
+- [DaySmartPet](https://www.daysmartpet.com/)
+- [Propet](https://www.propetware.com/)
+-
+
 ## Kennel
+
+- [Pawfinity](http://www.pawfinity.com/)
+- [PetLinx](http://www.petlinx.com/)
+- [Gingr](http://www.petlinx.com/)
+- [KennelBooker](https://www.kennelbooker.com/)
+- [Propet](https://www.propetware.com/)
+- [Pawloyalty](https://pawloyalty.com/)
+
+## Daycare
+
+- [Pawfinity](http://www.pawfinity.com/)
+- [DaySmartPet](https://www.daysmartpet.com/)
+- [Gingr](http://www.petlinx.com/)
+- [PetLinx](http://www.petlinx.com/)
+- [PetExec](http://www.petexec.net/)
+- [Propet](https://www.propetware.com/)
+- [Pawloyalty](https://pawloyalty.com/)
+- [TimeToPet](https://www.timetopet.com/)
+
+## Boarding
+
+- [DaySmartPet](https://www.daysmartpet.com/)
+- [Gingr](http://www.petlinx.com/)
+- [PetLinx](http://www.petlinx.com/)
+- [PetExec](http://www.petexec.net/)
+- [Propet](https://www.propetware.com/)
+- [Pawloyalty](https://pawloyalty.com/)
+- [TimeToPet](https://www.timetopet.com/)
+-
 
 ## Shelter
 
 ## Adoption
 
 ## Trainer
+
+- [Pawloyalty](https://pawloyalty.com/)
+- [KennelBooker](https://www.kennelbooker.com/)
+- [PawsAdmin](https://www.pawsadmin.com/)
+- [Pawfinity](http://www.pawfinity.com/)
+- [Gingr](http://www.petlinx.com/)
+- [PetExec](http://www.petexec.net/)
+- [Propet](https://www.propetware.com/)
+
+## Petsitter
+
+- [PawsAdmin](https://www.pawsadmin.com/)
+- [TimeToPet](https://www.timetopet.com/)
 
 ## Tracking
 
