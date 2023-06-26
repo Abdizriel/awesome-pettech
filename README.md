@@ -6,22 +6,20 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Contents
 
-- [Awesome PetTech ](#awesome-pettech-)
-  - [Contents](#contents)
-  - [Marketplace](#marketplace)
-  - [Veterinary](#veterinary)
-    - [PiMS](#pims)
-    - [Coding](#coding)
-  - [Grooming](#grooming)
-  - [Kennel](#kennel)
-  - [Daycare](#daycare)
-  - [Boarding](#boarding)
-  - [Shelter](#shelter)
-  - [Adoption](#adoption)
-  - [Trainer](#trainer)
-  - [Petsitter](#petsitter)
-  - [Tracking](#tracking)
-  - [API](#api)
+- [Marketplace](#marketplace)
+- [Veterinary](#veterinary)
+  - [PiMS](#pims)
+  - [Coding](#coding)
+- [Grooming](#grooming)
+- [Kennel](#kennel)
+- [Daycare](#daycare)
+- [Boarding](#boarding)
+- [Shelter](#shelter)
+- [Adoption](#adoption)
+- [Trainer](#trainer)
+- [Petsitter](#petsitter)
+- [Tracking](#tracking)
+- [API](#api)
 
 ## Marketplace
 
